@@ -25,7 +25,7 @@
 
 ## 💾 Download
 
-> 👉 [Download IntelliClean](https://github.com/awrish1122/intelliclean/releases/download/v1.0/IntelliClean.zip)
+> 👉 [Download IntelliClean](https://github.com/awrish1122/intelli-clean/releases/download/v1.0/Intelli-Clean.zip) 
 
 Just unzip and run the `.exe` file to get started.
 
